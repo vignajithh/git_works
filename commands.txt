@@ -4,3 +4,4 @@ git commit -m "your message"
 git push origin main
 git status
 git branch
+git stash
